@@ -1,0 +1,16 @@
+{
+    "address_id": 16078,
+    "id": 3736,
+    "year": 2008,
+    "doors_count": 5,
+    "places_count": 7,
+    "fuel_type_cd": 1,
+    "gears_type_cd": 0,
+    "vehicle_model": "C4 Picasso",
+    "brand": "Citroen",
+    "category": "FAMILIALE",
+    "thumbnail_url": "https://koolicar.s3.amazonaws.com/uploads/photo/2106/thumb_Hadad-pic.jpg",
+    "distance_string": "Paris 11'e8me",
+    "fake_latitude": 48.8676012152841,
+    "fake_longitude": 2.383478008763
+}
